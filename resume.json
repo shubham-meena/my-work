@@ -22,7 +22,7 @@
 			{
 				"network": "Github",
 				"username": "handle",
-				"url": "https://www.github.com/<handle>/"
+				"url": "https://www.github.com/shubham-meena/"
 			},
 			{
 				"network": "linkedin",
@@ -40,7 +40,7 @@
 		"company": "---",
 		"position": "----",
 		"website": "----",
-		"startDate": "2020-08-04//Take care about Date Format",
+		"startDate": "Date//Take care about Date Format",
 		"endDate": "Date // ",
 		"summary": "---Tell me something About Org. --- ",
 		"highlights": ["Add Highlights", "Your work details"]
@@ -57,8 +57,8 @@
 	"education": [{
 		"institution": "Indian Institute of Information technology,kota",
 		"area": "Engineering",
-		"studyType": "Bachelor (hons)",
-		"startDate": "2018-04-08 //Date",
+		"studyType": "Bachelor (Tech.)",
+		"startDate": "2020 //Date",
 		"endDate": "----",
 		"gpa": "---Add your CGPA ---",
 		"courses": [
@@ -68,7 +68,7 @@
 	"awards": [{
 		"title": "--Title---",
 		"awarder": "---Receiverd By ---",
-		"date": "2020-08-21//Date"
+		"date": " Date//Date"
 	}],
 	"publications": [{
 		"title": "---Enter Title---",
@@ -77,11 +77,11 @@
 	}],
 	"skills": [{
 		"level": "Master",
-		"keywords": ["HTML", "CSS", "Javascript", "React", "C/C++", "Add more"]
+		"keywords": ["HTML", "CSS", "Javascript", "C/C++", "Add more"]
 	}],
 	"interests": [{
 		"name": "Sports",
-		"keywords": ["Chess", "Badminton"]
+		"keywords": ["Volleyball", "Badminton","Skating"]
 	}],
 	"references": []
 }
