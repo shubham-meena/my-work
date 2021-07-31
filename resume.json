@@ -2,17 +2,17 @@
 	"basics": {
 		"name": "Shubham meena",
 		"label": "Student",
-		"picture": "---Enter Image URL----",
-		"email": "---Enter Email ID---",
-		"phone": "---Enter Mobile Number---",
+		"picture": "https://avatars.githubusercontent.com/u/88236651?v=4",
+		"email": "2020kucp1118@iiitkota.ac.in",
+		"phone": "7414061000",
 		"website": "---Enter Link of website(if any) ---",
 		"summary": "---Tell Something about yourself ---",
 		"location": {
-			"address": "---",
-			"postalCode": "---",
-			"city": "---",
+			"address": "234 Mansarovar Scheme, Pal Road",
+			"postalCode": "342014",
+			"city": "Jodhpur",
 			"countryCode": "India",
-			"region": "---State Name---"
+			"region": "Rajasthan"
 		},
 		"profiles": [{
 				"network": "Twitter",
